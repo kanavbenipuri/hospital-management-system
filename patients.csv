@@ -1,0 +1,102 @@
+ID,Name,MedicalHistory,Department,Condition,AdmissionDate,DischargeDate,RoomNumber
+1,John Doe,Diabetes Type 2,Endocrinology,Stable,15-01-2025,22-01-2025,101
+2,Jane Smith,Hypertension,Cardiology,Stable,16-01-2025,25-01-2025,102
+3,Michael Johnson,Pneumonia,Pulmonology,Critical,17-01-2025,30-01-2025,103
+4,Emily Brown,Appendicitis,Surgery,Recovering,18-01-2025,24-01-2025,104
+5,William Davis,Migraine,Neurology,Stable,19-01-2025,23-01-2025,105
+6,Sarah Wilson,Bronchitis,Pulmonology,Improving,20-01-2025,27-01-2025,106
+7,James Miller,Heart Disease,Cardiology,Stable,21-01-2025,05-02-2025,107
+8,Emma Taylor,Gastritis,Gastroenterology,Stable,22-01-2025,29-01-2025,108
+9,Robert Anderson,Arthritis,Rheumatology,Chronic,23-01-2025,06-02-2025,109
+10,Olivia Thomas,Asthma,Pulmonology,Stable,24-01-2025,31-01-2025,110
+11,David Martinez,Kidney Stones,Urology,Improving,25-01-2025,01-02-2025,111
+12,Sophia Garcia,Depression,Psychiatry,Stable,26-01-2025,09-02-2025,112
+13,Joseph Robinson,Fracture,Orthopedics,Healing,27-01-2025,10-02-2025,113
+14,Isabella Clark,Anemia,Hematology,Stable,28-01-2025,04-02-2025,114
+15,Christopher Lee,Diabetes Type 1,Endocrinology,Stable,29-01-2025,05-02-2025,115
+16,Mia Walker,Anxiety,Psychiatry,Improving,30-01-2025,06-02-2025,116
+17,Andrew Hall,Ulcer,Gastroenterology,Stable,31-01-2025,07-02-2025,117
+18,Ava Young,Tonsillitis,ENT,Recovering,01-02-2025,08-02-2025,118
+19,Daniel King,Back Pain,Orthopedics,Chronic,02-02-2025,09-02-2025,119
+20,Charlotte Wright,Sinusitis,ENT,Improving,03-02-2025,10-02-2025,120
+21,Matthew Lopez,Heart Attack,Cardiology,Critical,04-02-2025,18-02-2025,121
+22,Amelia Hill,Allergies,Immunology,Stable,05-02-2025,12-02-2025,122
+23,Alexander Scott,Stroke,Neurology,Recovering,06-02-2025,20-02-2025,123
+24,Harper Green,Cancer,Oncology,Treatment,07-02-2025,07-03-2025,124
+25,Benjamin Adams,Thyroid,Endocrinology,Stable,08-02-2025,15-02-2025,125
+26,Evelyn Baker,Lupus,Rheumatology,Chronic,09-02-2025,23-02-2025,126
+27,Henry Nelson,Pneumothorax,Pulmonology,Critical,10-02-2025,24-02-2025,127
+28,Victoria Carter,Migraine,Neurology,Recurring,11-02-2025,18-02-2025,128
+29,Sebastian Mitchell,Colitis,Gastroenterology,Stable,12-02-2025,19-02-2025,129
+30,Scarlett Perez,Bronchitis,Pulmonology,Improving,13-02-2025,20-02-2025,130
+31,Julian Roberts,Arrhythmia,Cardiology,Stable,14-02-2025,21-02-2025,131
+32,Madison Turner,GERD,Gastroenterology,Chronic,15-02-2025,22-02-2025,132
+33,Jack Phillips,Osteoporosis,Orthopedics,Stable,16-02-2025,23-02-2025,133
+34,Lily Campbell,Asthma,Pulmonology,Controlled,17-02-2025,24-02-2025,134
+35,Owen Morgan,Depression,Psychiatry,Improving,18-02-2025,04-03-2025,135
+36,Hannah Parker,Arthritis,Rheumatology,Chronic,19-02-2025,05-03-2025,136
+37,Wyatt Evans,Diabetes,Endocrinology,Stable,20-02-2025,27-02-2025,137
+38,Addison Edwards,Anemia,Hematology,Improving,21-02-2025,28-02-2025,138
+39,Luke Collins,Hypertension,Cardiology,Stable,22-02-2025,01-03-2025,139
+40,Aria Stewart,Appendicitis,Surgery,Recovery,23-02-2025,02-03-2025,140
+41,Gabriel Rogers,Fracture,Orthopedics,Healing,24-02-2025,10-03-2025,141
+42,Penelope Reed,Pneumonia,Pulmonology,Improving,25-02-2025,04-03-2025,142
+43,Leo Cook,Migraine,Neurology,Stable,26-02-2025,05-03-2025,143
+44,Nora Morgan,Gastritis,Gastroenterology,Stable,27-02-2025,06-03-2025,144
+45,Elijah Bailey,Heart Disease,Cardiology,Stable,28-02-2025,14-03-2025,145
+46,Stella Rivera,Tonsillitis,ENT,Recovering,01-03-2025,08-03-2025,146
+47,Hudson Richardson,Kidney Stones,Urology,Passing,02-03-2025,09-03-2025,147
+48,Luna Cox,Anxiety,Psychiatry,Improving,03-03-2025,17-03-2025,148
+49,Austin Wood,Cancer,Oncology,Treatment,04-03-2025,04-04-2025,149
+50,Hazel Ross,Thyroid,Endocrinology,Stable,05-03-2025,12-03-2025,150
+51,Carson Ward,Lupus,Rheumatology,Chronic,06-03-2025,20-03-2025,151
+52,Claire Watson,Bronchitis,Pulmonology,Improving,07-03-2025,14-03-2025,152
+53,Thomas Brooks,Colitis,Gastroenterology,Stable,08-03-2025,15-03-2025,153
+54,Lucy Bennett,Asthma,Pulmonology,Controlled,09-03-2025,16-03-2025,154
+55,Caleb Gray,Depression,Psychiatry,Stable,10-03-2025,24-03-2025,155
+56,Alice Hughes,Arthritis,Rheumatology,Chronic,11-03-2025,25-03-2025,156
+57,Miles Price,Diabetes,Endocrinology,Stable,12-03-2025,19-03-2025,157
+58,Eva Long,Anemia,Hematology,Improving,13-03-2025,20-03-2025,158
+59,Maxwell Foster,Hypertension,Cardiology,Stable,14-03-2025,21-03-2025,159
+60,Ruby Sanders,Pneumonia,Pulmonology,Critical,15-03-2025,29-03-2025,160
+61,Ian Ross,Migraine,Neurology,Recurring,16-03-2025,23-03-2025,161
+62,Autumn Patterson,Gastritis,Gastroenterology,Stable,17-03-2025,24-03-2025,162
+63,Cole Butler,Heart Disease,Cardiology,Stable,18-03-2025,01-04-2025,163
+64,Willow Simmons,Tonsillitis,ENT,Recovering,19-03-2025,26-03-2025,164
+65,Chase Bryant,Kidney Stones,Urology,Passing,20-03-2025,27-03-2025,165
+66,Trinity Barnes,Anxiety,Psychiatry,Improving,21-03-2025,04-04-2025,166
+67,Blake Fisher,Stroke,Neurology,Recovering,22-03-2025,05-04-2025,167
+68,Naomi Coleman,Cancer,Oncology,Treatment,23-03-2025,23-04-2025,168
+69,Jaxon Jenkins,Thyroid,Endocrinology,Stable,24-03-2025,31-03-2025,169
+70,Caroline Perry,Lupus,Rheumatology,Chronic,25-03-2025,08-04-2025,170
+71,Cooper Powell,Bronchitis,Pulmonology,Improving,26-03-2025,02-04-2025,171
+72,Paisley Long,Colitis,Gastroenterology,Stable,27-03-2025,03-04-2025,172
+73,Brady Patterson,Asthma,Pulmonology,Controlled,28-03-2025,04-04-2025,173
+74,Lydia Hughes,Depression,Psychiatry,Stable,29-03-2025,12-04-2025,174
+75,Tyler Russell,Arthritis,Rheumatology,Chronic,30-03-2025,13-04-2025,175
+76,Elena Diaz,Diabetes,Endocrinology,Stable,31-03-2025,07-04-2025,176
+77,Harrison Hayes,Anemia,Hematology,Improving,01-04-2025,08-04-2025,177
+78,Aurora Myers,Hypertension,Cardiology,Stable,02-04-2025,09-04-2025,178
+79,Colin Kelly,Appendicitis,Surgery,Recovery,03-04-2025,10-04-2025,179
+80,Valentina Howard,Fracture,Orthopedics,Healing,04-04-2025,18-04-2025,180
+81,Wesley Cox,Pneumonia,Pulmonology,Improving,05-04-2025,12-04-2025,181
+82,Aubrey Smith,Migraine,Neurology,Stable,06-04-2025,13-04-2025,182
+83,Seth Richardson,Gastritis,Gastroenterology,Stable,07-04-2025,14-04-2025,183
+84,Madeline Ross,Heart Disease,Cardiology,Stable,08-04-2025,22-04-2025,184
+85,Preston Wood,Tonsillitis,ENT,Recovering,09-04-2025,16-04-2025,185
+86,Skylar Bennett,Kidney Stones,Urology,Passing,10-04-2025,17-04-2025,186
+87,Jude Watson,Anxiety,Psychiatry,Improving,11-04-2025,25-04-2025,187
+88,Bella Brooks,Cancer,Oncology,Treatment,12-04-2025,12-05-2025,188
+89,Emmett Gray,Thyroid,Endocrinology,Stable,13-04-2025,20-04-2025,189
+90,Cora Hughes,Lupus,Rheumatology,Chronic,14-04-2025,28-04-2025,190
+91,Dean Price,Bronchitis,Pulmonology,Improving,15-04-2025,22-04-2025,191
+92,Georgia Long,Colitis,Gastroenterology,Stable,16-04-2025,23-04-2025,192
+93,Elliott Foster,Asthma,Pulmonology,Controlled,17-04-2025,24-04-2025,193
+94,Ivy Sanders,Depression,Psychiatry,Stable,18-04-2025,02-05-2025,194
+95,Felix Ross,Arthritis,Rheumatology,Chronic,19-04-2025,03-05-2025,195
+96,Piper Patterson,Diabetes,Endocrinology,Stable,20-04-2025,27-04-2025,196
+97,Silas Butler,Anemia,Hematology,Improving,21-04-2025,28-04-2025,197
+98,Nova Simmons,Hypertension,Cardiology,Stable,22-04-2025,29-04-2025,198
+99,Oscar Bryant,Pneumonia,Pulmonology,Critical,23-04-2025,07-05-2025,199
+100,Ruby Barnes,Migraine,Neurology,Recurring,24-04-2025,01-05-2025,200
+101,Kanav ,Fever,ENT,Ear peircing ,04-05-2025,Not set,1
